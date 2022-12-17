@@ -1,6 +1,6 @@
 Welcome to simple project using Django framework app being deployed using docker.
 
-To deply app correctly please follow below steps.
+To deploy app correctly clone this repo and please follow below steps.
 
 1. Open your terminal and change directory to mysite folder
 2. Run command "sudo docker build --tag django-app ." - this will build your docker image based on Dockerfile.
